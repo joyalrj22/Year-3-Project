@@ -1,0 +1,19 @@
+Lit review:
+start off with broad, what is emotion, categories of emotion, why we're using regression and continous instead of classifying discrete,
+then move onto more specific, end with implementation stuff like neural network type etc.
+
+Project plan: basically a gantt chart
+
+features are just points on a graph of likert scale vs time, points averaged over time, correlation coefficients are different measures e.g. eGeMaps or FAUs
+that measure how close predicted is to actual feature, i.e. closer to 1 is better
+Data set provides deep feature, you extract your own and try (but probably fail) to beat it (get a higher correlation coefficient).
+Likert scale obtained by combining results of patient survey of current emotional state (not very accurate or comparable), but alternative is use of a lot
+of sensors and stuff.
+Higher point on graph = happier
+
+training and dev in hungarian/german, test in chinese 
+
+yona will ask toby what he means by technical evaluation of state of the art (is it a thesis or a diss or what?)
+
+Audio and Video are treated seperately.
+Use of Python reccommended

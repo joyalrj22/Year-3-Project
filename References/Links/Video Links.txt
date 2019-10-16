@@ -1,0 +1,3 @@
+TED TALK: https://www.youtube.com/watch?v=4QjZDUaDxQU
+EmotionAI: https://www.youtube.com/watch?v=HKpL3sfUVRI
+LSTM Networks: https://www.youtube.com/watch?v=QciIcRxJvsM
