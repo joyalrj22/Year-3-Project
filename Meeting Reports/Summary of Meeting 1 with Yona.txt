@@ -8,7 +8,7 @@ features are just points on a graph of likert scale vs time, points averaged ove
 that measure how close predicted is to actual feature, i.e. closer to 1 is better
 Data set provides deep feature, you extract your own and try (but probably fail) to beat it (get a higher correlation coefficient).
 Likert scale obtained by combining results of patient survey of current emotional state (not very accurate or comparable), but alternative is use of a lot
-of sensors and stuff.
+of sensors and stuff. - actually i think its using annotators for video set, annotators use joystick and results are normalised. see AVEC 2017.
 Higher point on graph = happier
 
 training and dev in hungarian/german, test in chinese 
