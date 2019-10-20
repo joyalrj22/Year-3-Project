@@ -4,6 +4,7 @@ Definitions & introduction:
 
 - Emotion
 - Emotional state: vector of continous emotional dimensions e.g. valence, arousal
+- Affect modeling/ recognition
 - Automatic emotion recognition
 	 -- among discrete categories
 	 -- continious dimensions
@@ -15,6 +16,5 @@ Definitions & introduction:
 
 
 Themes
-
-	
+- Statisitical measures to summarise LLDs
 - Types of neural networks: CNNs, LSTM, recurrent, Gated Recurrent Unit etc.
