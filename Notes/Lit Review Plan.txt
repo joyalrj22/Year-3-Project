@@ -1,0 +1,20 @@
+Themes for lit survey
+
+Definitions & introduction:
+
+- Emotion
+- Emotional state: vector of continous emotional dimensions e.g. valence, arousal
+- Automatic emotion recognition
+	 -- among discrete categories
+	 -- continious dimensions
+- Emotional representation models
+- Classification methods for discrete
+- Regression methods used to inder emotional state
+- In-the-lab vs. in-the-wild data
+- What is a neural network, deep features etc
+
+
+Themes
+
+	
+- Types of neural networks: CNNs, LSTM, recurrent, Gated Recurrent Unit etc.
