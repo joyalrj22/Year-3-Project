@@ -2,3 +2,4 @@ https://en.wikipedia.org/wiki/Recurrent_neural_network
 https://en.wikipedia.org/wiki/Vanishing_gradient_problem
 https://en.wikipedia.org/wiki/Long_short-term_memory
 https://en.wikipedia.org/wiki/Convolutional_neural_network
+https://medium.com/quick-code/regression-versus-classification-machine-learning-whats-the-difference-345c56dd15f7

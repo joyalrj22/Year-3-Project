@@ -7,7 +7,7 @@ Definitions & introduction:
 - Affect modeling/ recognition
 - Automatic emotion recognition
 	 -- among discrete categories
-	 -- continious dimensions
+	 -- continous dimensions
 - Emotional representation models
 - Classification methods for discrete
 - Regression methods used to inder emotional state
@@ -16,5 +16,8 @@ Definitions & introduction:
 
 
 Themes
-- Statisitical measures to summarise LLDs
-- Types of neural networks: CNNs, LSTM, recurrent, Gated Recurrent Unit etc.
+- Regression methods vs. classification methods
+- Statistical measures to summarise LLDs (Features)
+- Correlation Coefficients
+- Types of neural networks: CNNs, LSTM, recurrent, Gated Recurrent Unit , Attention based networks etc.
+- Possible issues: overfitting, exploding/vanishing gradient
