@@ -4,3 +4,13 @@ Winston, Patrick Henry.
 3rd ed, Repr with corrections. 1993
 
 ==========================================
+
+Introduction to neural networks, Phil Picton, Macmillan, Open University, 1994
+=============================================
+
+Advances in neural information processing systems 14 vol2
+Dietterich, becker, ghahramani, MIT press, 2002
+==============================================
+
+Neural Networks Methodology and Applications
+Gerard Dreyfus, Springer

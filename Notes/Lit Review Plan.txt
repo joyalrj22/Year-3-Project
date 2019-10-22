@@ -19,5 +19,5 @@ Themes
 - Regression methods vs. classification methods
 - Statistical measures to summarise LLDs (Features)
 - Correlation Coefficients
-- Types of neural networks: CNNs, LSTM, recurrent, Gated Recurrent Unit , Attention based networks etc.
 - Possible issues: overfitting, exploding/vanishing gradient
+- Types of neural networks: CNNs, LSTM, recurrent, Gated Recurrent Unit , Attention based networks etc.
