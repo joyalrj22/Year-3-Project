@@ -2,17 +2,28 @@ Themes for lit survey
 
 Definitions & introduction:
 
-- Emotion
-- Emotional state: vector of continous emotional dimensions e.g. valence, arousal
-- Affect modeling/ recognition
+- Emotion, piccard et al
+	-discrete emotion (5 categories)
+	- Emotional state: vector of continous emotional dimensions e.g. valence, arousal
+
+
+
 - Automatic emotion recognition
 	 -- among discrete categories
 	 -- continous dimensions
+
 - Emotional representation models
-- Classification methods for discrete
-- Regression methods used to inder emotional state
+	- Classification methods for discrete
+	- Regression methods used to infer emotional state
+
 - In-the-lab vs. in-the-wild data
+
 - What is a neural network, deep features etc
+	--explain svm as well
+	-- why neural is better than svm
+
+
+
 
 
 Themes

@@ -8,7 +8,7 @@ Winston, Patrick Henry.
 Introduction to neural networks, Phil Picton, Macmillan, Open University, 1994
 =============================================
 
-Advances in neural information processing systems 14 vol2
+Advances in neural information processing systems 14 vol 1 & 2
 Dietterich, becker, ghahramani, MIT press, 2002
 ==============================================
 
