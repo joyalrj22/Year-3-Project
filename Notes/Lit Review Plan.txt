@@ -2,11 +2,10 @@ Themes for lit survey
 
 Definitions & introduction:
 
-- Emotion, piccard et al
+- Emotion, picard et al
+	in-the-wild vs in-the-lab
 	-discrete emotion (5 categories)
 	- Emotional state: vector of continous emotional dimensions e.g. valence, arousal
-
-
 
 - Automatic emotion recognition
 	 -- among discrete categories
@@ -16,11 +15,14 @@ Definitions & introduction:
 	- Classification methods for discrete
 	- Regression methods used to infer emotional state
 
-- In-the-lab vs. in-the-wild data
-
 - What is a neural network, deep features etc
-	--explain svm as well
+	--explain svrm as well
 	-- why neural is better than svm
+	-- neural nets:
+		- Statistical measures to summarise LLDs (Features)
+		- Correlation Coefficients
+		- Possible issues: overfitting, exploding/vanishing gradient
+		- Types of neural networks: CNNs, LSTM, recurrent, Gated Recurrent Unit , Attention based networks etc.
 
 
 
@@ -28,7 +30,4 @@ Definitions & introduction:
 
 Themes
 - Regression methods vs. classification methods
-- Statistical measures to summarise LLDs (Features)
-- Correlation Coefficients
-- Possible issues: overfitting, exploding/vanishing gradient
-- Types of neural networks: CNNs, LSTM, recurrent, Gated Recurrent Unit , Attention based networks etc.
+
